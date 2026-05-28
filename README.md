@@ -33,7 +33,7 @@ to generate actionable business insights related to:
 - SQL
 - Google BigQuery
 - Python
-- Jupyter Notebook
+- Google Colab
 - Looker Studio
 - Regression Analysis
 - Data Visualization
